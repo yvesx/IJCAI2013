@@ -1,0 +1,22 @@
+
+| fid  | fb_id           | fb_name                                              |
++------+-----------------+------------------------------------------------------+
+|  940 |    298903157765 | Claritin                                             |
+| 6254 |     11736558481 | WebMD                                                |
+| 9088 |     25986728672 | Arthritis Foundation                                 |
+| 9089 |    114873430725 | Rheumatoid Arthritis Warrior                         |
+| 9090 | 123886470979622 | Arthritis Today Magazine                             |
+| 9091 |    103477026390 | American College of Rheumatology                     |
+| 9092 |    365549514909 | Rheumatology                                         |
+| 9093 | 169626233142457 | World Autoimmune Arthritis Day                       |
+| 9094 |    185546509919 | Rheumatology News                                    |
+| 9095 | 209683862420959 | Rheumatology Network                                 |
+| 9096 |    195100402621 | American Gastroenterological Association (AGA)       |
+| 9097 |     83243506953 | Gastroenterology                                     |
+| 9098 | 101393913279829 | CCFA - Crohn's & Colitis Foundation of America       |
+| 9099 |     26802476209 | Get Your Guts in Gear, Inc.                          |
+| 9100 |    160246126625 | Irritable Bowel Syndrome Self Help and Support Group |
+| 9101 |    246323280108 | American Medical Association (AMA)                   |
+| 9102 |     87087958340 | JAMA, Journal of the American Medical Association    |
+| 9103 |     40523327759 | American College of Physicians (ACP)                 |
+| 9104 |     43331696829 | National Institutes of Health (NIH)                  |
