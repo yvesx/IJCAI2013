@@ -6,3 +6,4 @@ Authors: Yusheng Xie, Zhengzhang Chen, Yu Cheng, Kunpeng Zhang, Ankit Agrawal, W
 
 Title: Forecast Oriented Classification of Spatio-Temporal Extreme Events
 Authors: Zhengzhang Chen, Yusheng Xie, Yu Cheng, Kunpeng Zhang, Ankit Agrawal, Wei-keng Liao, Nagiza Samatova, Alok Choudhary
+(see this Zhengzheng's https://sites.google.com/site/zhengzhangchen/ website for more details)
